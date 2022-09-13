@@ -1,1 +1,2 @@
 # Hello
+[Blog](zuhanit.site)
