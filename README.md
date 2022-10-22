@@ -1,2 +1,2 @@
 # Hello
-[Blog](zuhanit.site)
+[Blog](http://www.zuhanit.site)
